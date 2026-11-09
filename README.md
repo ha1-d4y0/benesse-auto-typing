@@ -6,7 +6,6 @@ benesse typing用のDOM要素からテキストを取得し、自動でタイピ
 
 * Windows 11
 * Python 3.14.x 以降
-* [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki)
 
 ## 構成ファイル
 
